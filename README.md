@@ -38,7 +38,9 @@ This is a web-based AI Chatbot built with **HTML**, **CSS**, and **JavaScript**,
 
 ## 📁 Project Structure
 ├── index.html # Main HTML layout
+
 ├── Style.css # Styling and responsiveness
+
 ├── script.js # JavaScript logic and Gemini API integration
 
 
@@ -53,11 +55,10 @@ This is a web-based AI Chatbot built with **HTML**, **CSS**, and **JavaScript**,
    
 2. Open index.html in your browser.
 
-✅ Ensure your Gemini API key is valid and correctly placed inside script.js.
+   ✅ Ensure your Gemini API key is valid and correctly placed inside script.js.
 
+---
 
-📄 License
-This project is licensed under the MIT License
 
 👩‍💻 Author : Bhumika H M
 
