@@ -55,16 +55,14 @@ This is a web-based AI Chatbot built with **HTML**, **CSS**, and **JavaScript**,
 
 ✅ Ensure your Gemini API key is valid and correctly placed inside script.js.
 
-📸 Screenshots:
-<img width="531" height="765" alt="image" src="https://github.com/user-attachments/assets/23b7bdbc-a8fe-43ee-a5d2-4477fa24454c" />
-<img width="513" height="759" alt="image" src="https://github.com/user-attachments/assets/e0677e7f-74f9-4c6a-b2ae-9ac69b6e7faf" />
 
 📄 License
 This project is licensed under the MIT License
 
-👩‍💻 Author
-Bhumika H M
+👩‍💻 Author : Bhumika H M
+
 💼 GitHub: https://github.com/Bhumikahm
+
 📧 email: bhumikahm2003@gmail.com
 
 
